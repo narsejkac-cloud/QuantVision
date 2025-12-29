@@ -1,0 +1,7 @@
+{
+  "name": "QuantVision AI",
+  "description": "Professional-grade price chart analysis tool powered by Gemini. Upload any trading chart image for instant technical insights, pattern recognition, and trend evaluation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
